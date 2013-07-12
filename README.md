@@ -97,6 +97,7 @@ Useful Python Links
 
  - [Ubuntu](http://www.ubuntu.com/)
  - BioUbuntu(including many bioinformatics software)
+ - Virtual Machine
  - [Amazon Cloud Computing](http://aws.amazon.com/ec2/)
    - not free, you use , you pay
    - free Tire for beginner
