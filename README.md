@@ -14,13 +14,12 @@ http://blog.yeyanbo.com/slides/python.html#1
 
 
 
-How computers work; online editing at github
+How computers work
 --------------------------------------------
 
-(Titus Brown)
+(by Titus Brown)
 
-.. image:: ./swc-computer-diagram.png
-
+https://github.com/swcarpentry/2013-04-az/blob/master/swc-computer-diagram.png
 
 Python
 ======
