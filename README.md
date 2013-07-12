@@ -13,6 +13,15 @@ python slides:
 http://blog.yeyanbo.com/slides/python.html#1
 
 
+
+How computers work; online editing at github
+--------------------------------------------
+
+(Titus Brown)
+
+.. image:: ./swc-computer-diagram.png
+
+
 Python
 ======
 
@@ -97,7 +106,9 @@ Useful Python Links
 ### Some Useful Links
 
  - [GED Lab Angus](http://ged.msu.edu/angus/index.html)
+   - a bunch of course/workshop materials, tutorials, etc.
  - [SeqAnswers](http://seqanswers.com/)
+   - online forum
  - [BioStars](http://www.biostars.org/)
  - Many more ...
  - Google
