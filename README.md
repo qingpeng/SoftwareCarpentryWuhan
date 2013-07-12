@@ -104,6 +104,10 @@ Useful Python Links
 
 ### Some Useful Links
 
+ - [Software Carpentry Github Repo](https://github.com/swcarpentry)
+   - workshop materials
+ - [Software Carpentry Website](http://software-carpentry.org/)
+   - lost of tutorials
  - [GED Lab Angus](http://ged.msu.edu/angus/index.html)
    - a bunch of course/workshop materials, tutorials, etc.
  - [SeqAnswers](http://seqanswers.com/)
