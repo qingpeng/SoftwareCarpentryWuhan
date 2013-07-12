@@ -102,6 +102,12 @@ Useful Python Links
    - free Tire for beginner
    - a tutorial http://ged.msu.edu/angus/tutorials-2013/day1.html
 
+
+### Reproducibility
+
+ - An example
+    http://ged.msu.edu/papers/2012-diginorm/
+    
 ### Some Useful Links
 
  - [Software Carpentry Github Repo](https://github.com/swcarpentry)
