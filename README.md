@@ -123,7 +123,6 @@ Useful Python Links
  - Many more ...
  - Google
 
-qingpeng@gmail.com
 
 
  
